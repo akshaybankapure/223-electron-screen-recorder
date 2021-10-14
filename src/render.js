@@ -1,3 +1,4 @@
+//Retriving the data
 const { desktopCapturer, remote } = require('electron');
 
 const { writeFile } = require('fs');
